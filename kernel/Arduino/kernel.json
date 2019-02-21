@@ -1,0 +1,15 @@
+{
+	"argv": [
+		"java",
+		"-jar",
+ 		
+		"/Applications/Eclipse3.app/Contents/Eclipse/plugins/bacata-rascal_0.2.0.201901192251.jar",
+		"{connection_file}",
+		"home:///eclipse-workspace-bacata/Arduino/src",
+		"ArduinoREPL::myRepl",
+		"Arduino"
+ 		,"home:///Documents/Rascal/salix/src"
+	],
+	"display_name": "Arduino",
+	"language": "Arduino"
+}
