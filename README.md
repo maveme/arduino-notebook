@@ -8,3 +8,6 @@ This is a brief proof of concept to use Arduino with Jupyter + Rascal + Bacatá.
 
 
 `nb.serve`
+
+## Reference
+http://johnny-five.io/examples/repl/
